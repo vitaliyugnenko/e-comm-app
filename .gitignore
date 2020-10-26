@@ -21,7 +21,7 @@ npm-debug.log
 /build
 /heroku
 /backup mongodb data
-/public/img
+
 
 # Docker
 Dockerfile
